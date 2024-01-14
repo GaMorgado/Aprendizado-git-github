@@ -1,0 +1,1 @@
+para realizar esse curso, instalei o git para rodar os comandos e o ubuntu para simular o terminal

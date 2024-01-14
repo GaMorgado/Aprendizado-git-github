@@ -1,0 +1,1 @@
+os principais comandos que utilizei no curso foram: ls, clear, git status, git add ., git commit -m '', touch, echo, git branch, git checkout, git push origin, git pull origin

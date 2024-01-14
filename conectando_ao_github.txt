@@ -1,0 +1,1 @@
+para conectar ao github até agora, eu inicio o git com git init no programa, depois eu subo algum arquivo no git local, do um commit, crio a ligação remota com o comando git remote add origin e passo a url do repositorio, depois do um git push -u origin master
